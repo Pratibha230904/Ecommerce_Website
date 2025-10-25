@@ -1,0 +1,35 @@
+.card
+{
+    height:800px;
+    width:100%;
+    border: 2px solid black;
+      display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:24px;
+   
+
+}
+
+.product1
+{
+    height:400px;
+    width:30%;
+    border:2px solid red;
+     text-align: center;
+   
+  
+}
+
+.image
+{
+    height:300px;
+    width:400px;
+    padding: 12px;
+
+}
+
+.button
+{
+    background-color:beige;
+}

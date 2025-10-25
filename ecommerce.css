@@ -1,0 +1,177 @@
+*
+{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+body
+{
+    background-color:#F5DAA7
+}
+
+.mainheader
+{
+    height:50px;
+    width:100%;
+    background-color:#F5DAA7;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:10%;
+   
+}
+
+.logo
+{
+    height:50px
+
+}
+
+.searchbox
+{
+    width:30%;
+    height:30px;
+    border-radius: 2px;
+
+}
+
+.button
+{
+    height:30px;
+    width:100px;
+    background-color:#842A3B;
+    border:1px solid black;
+    color:rgb(243, 232, 232);
+   
+}
+
+.navbar
+{
+    height:50px;
+    width:100%;
+    background-color:#842A3B;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    gap:15%;
+    margin-top: 2px;
+    
+
+}
+
+.link
+{
+  
+    color:rgb(243, 232, 232);
+    font-size:20px;
+    text-decoration: none;
+    
+}
+
+/* Product image section */
+
+.mainproduct
+{
+    height:500px;
+    width:100%;
+    background-color:#F5DAA7;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:10%;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-left: 2px;
+}
+
+.productimage
+{
+    height:450px;
+    width:100%;
+
+}
+
+.imagebutton
+{
+    height:30px;
+    width:100px;
+    background-color:#842A3B;
+    border:1px solid black;
+    color:rgb(243, 232, 232);
+    
+}
+
+/* Footer Section */
+.footersection
+{
+    height:500px;
+    width:100%;
+    background-color:#A3485A;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:10%;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.socialmedia
+{
+    height:200px;
+    width:70%;
+    background-color:#A3485A;
+    gap:20%;
+    text-align: center;
+    color: black;
+
+}
+
+.socialicon
+{
+    height:50px;
+    width:50px;
+    background-color:#A3485A;
+   
+
+}
+
+#youtube
+{
+    height:100px;
+    width:150px;
+    background-color:#A3485A;
+}
+
+.contactus
+{
+   height:200px;
+    width:70%;
+    background-color:#A3485A;
+    gap:20%;
+    text-align: center; 
+    color: black;
+}
+
+.aboutus
+{
+    height:200px;
+    width:70%;
+    background-color:#A3485A;
+    gap:20%;
+    text-align: center;
+    color: black;
+}
+
+.aboutusimage
+{
+    height:40px;
+    width:40px;
+    background-color:#A3485A;
+    
+}
+
+
+
+
+
